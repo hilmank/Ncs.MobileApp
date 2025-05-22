@@ -47,10 +47,13 @@ class _TrimmingOnScreenState extends State<TrimmingOnScreen> {
         }
         return;
       }
+
       final result = await _service.fetchSummary(token);
+      int grandTotal = result.fold(0, (sum, item) => sum + item.quantity);
+
       setState(() {
-        data = List<Map<String, dynamic>>.from(result['summary']);
-        totalQty = result['grandTotal'];
+        data = result.map((e) => e.toJson()).toList();
+        totalQty = grandTotal;
         isLoading = false;
       });
     } catch (e) {
@@ -70,7 +73,6 @@ class _TrimmingOnScreenState extends State<TrimmingOnScreen> {
       body: SafeArea(
         child: Column(
           children: [
-            // 🔴 Header Merah
             Container(
               color: Color(0xFFBD0000),
               padding: const EdgeInsets.all(16),
@@ -115,8 +117,6 @@ class _TrimmingOnScreenState extends State<TrimmingOnScreen> {
                 ],
               ),
             ),
-
-            // 🔽 Konten Utama
             isLoading
                 ? const Expanded(
                     child: Center(child: CircularProgressIndicator()))

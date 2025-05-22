@@ -48,9 +48,7 @@ class _TrimmingOnDetailScreenState extends State<TrimmingOnDetailScreen> {
         throw AppException("Unauthorized");
       }
 
-      final data = await _service.fetchTransactions(token);
-      final list =
-          data.map((e) => TrimmingOnTransactionResult.fromJson(e)).toList();
+      final list = await _service.fetchTransactions(token);
       if (!mounted) return;
       setState(() {
         transactions = list;
@@ -59,6 +57,7 @@ class _TrimmingOnDetailScreenState extends State<TrimmingOnDetailScreen> {
       if (!mounted) return;
       ErrorHandler.handle(context: context, error: e, stackTrace: stack);
     } finally {
+      // ignore: control_flow_in_finally
       if (!mounted) return;
       setState(() => isLoading = false);
     }
@@ -85,6 +84,7 @@ class _TrimmingOnDetailScreenState extends State<TrimmingOnDetailScreen> {
       if (!mounted) return;
       ErrorHandler.handle(context: context, error: e, stackTrace: stack);
     } finally {
+      // ignore: control_flow_in_finally
       if (!mounted) return;
       setState(() => isLoading = false);
     }
