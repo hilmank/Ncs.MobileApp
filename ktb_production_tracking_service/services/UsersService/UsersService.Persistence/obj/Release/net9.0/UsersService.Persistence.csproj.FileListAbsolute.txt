@@ -1,0 +1,17 @@
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\bin\Release\net9.0\UsersService.Persistence.deps.json
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\bin\Release\net9.0\UsersService.Persistence.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\bin\Release\net9.0\UsersService.Persistence.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\bin\Release\net9.0\UsersService.Application.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\bin\Release\net9.0\UsersService.Domain.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\bin\Release\net9.0\UsersService.Application.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\bin\Release\net9.0\UsersService.Domain.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\obj\Release\net9.0\UsersService.Persistence.csproj.AssemblyReference.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\obj\Release\net9.0\UsersService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\obj\Release\net9.0\UsersService.Persistence.AssemblyInfoInputs.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\obj\Release\net9.0\UsersService.Persistence.AssemblyInfo.cs
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\obj\Release\net9.0\UsersService.Persistence.csproj.CoreCompileInputs.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\obj\Release\net9.0\UsersSer.FB536A96.Up2Date
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\obj\Release\net9.0\UsersService.Persistence.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\obj\Release\net9.0\refint\UsersService.Persistence.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\obj\Release\net9.0\UsersService.Persistence.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Persistence\obj\Release\net9.0\ref\UsersService.Persistence.dll

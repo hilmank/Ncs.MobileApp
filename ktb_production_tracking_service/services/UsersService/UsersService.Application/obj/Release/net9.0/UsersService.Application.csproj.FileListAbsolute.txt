@@ -1,0 +1,15 @@
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\bin\Release\net9.0\UsersService.Application.deps.json
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\bin\Release\net9.0\UsersService.Application.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\bin\Release\net9.0\UsersService.Application.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\bin\Release\net9.0\UsersService.Domain.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\bin\Release\net9.0\UsersService.Domain.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\obj\Release\net9.0\UsersService.Application.csproj.AssemblyReference.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\obj\Release\net9.0\UsersService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\obj\Release\net9.0\UsersService.Application.AssemblyInfoInputs.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\obj\Release\net9.0\UsersService.Application.AssemblyInfo.cs
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\obj\Release\net9.0\UsersService.Application.csproj.CoreCompileInputs.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\obj\Release\net9.0\UsersSer.5D5B82A4.Up2Date
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\obj\Release\net9.0\UsersService.Application.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\obj\Release\net9.0\refint\UsersService.Application.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\obj\Release\net9.0\UsersService.Application.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Application\obj\Release\net9.0\ref\UsersService.Application.dll

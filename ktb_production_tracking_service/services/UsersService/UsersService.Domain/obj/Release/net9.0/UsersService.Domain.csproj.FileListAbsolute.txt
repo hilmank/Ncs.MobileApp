@@ -1,0 +1,11 @@
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\bin\Release\net9.0\UsersService.Domain.deps.json
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\bin\Release\net9.0\UsersService.Domain.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\bin\Release\net9.0\UsersService.Domain.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\obj\Release\net9.0\UsersService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\obj\Release\net9.0\UsersService.Domain.AssemblyInfoInputs.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\obj\Release\net9.0\UsersService.Domain.AssemblyInfo.cs
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\obj\Release\net9.0\UsersService.Domain.csproj.CoreCompileInputs.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\obj\Release\net9.0\UsersService.Domain.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\obj\Release\net9.0\refint\UsersService.Domain.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\obj\Release\net9.0\UsersService.Domain.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Domain\obj\Release\net9.0\ref\UsersService.Domain.dll

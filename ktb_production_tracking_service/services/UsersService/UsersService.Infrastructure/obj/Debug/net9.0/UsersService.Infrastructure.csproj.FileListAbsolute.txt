@@ -1,0 +1,17 @@
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\bin\Debug\net9.0\UsersService.Infrastructure.deps.json
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\bin\Debug\net9.0\UsersService.Infrastructure.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\bin\Debug\net9.0\UsersService.Infrastructure.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\bin\Debug\net9.0\UsersService.Application.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\bin\Debug\net9.0\UsersService.Domain.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\bin\Debug\net9.0\UsersService.Application.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\bin\Debug\net9.0\UsersService.Domain.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\obj\Debug\net9.0\UsersService.Infrastructure.csproj.AssemblyReference.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\obj\Debug\net9.0\UsersService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\obj\Debug\net9.0\UsersService.Infrastructure.AssemblyInfoInputs.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\obj\Debug\net9.0\UsersService.Infrastructure.AssemblyInfo.cs
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\obj\Debug\net9.0\UsersService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\obj\Debug\net9.0\UsersSer.84FD0A55.Up2Date
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\obj\Debug\net9.0\UsersService.Infrastructure.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\obj\Debug\net9.0\refint\UsersService.Infrastructure.dll
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\obj\Debug\net9.0\UsersService.Infrastructure.pdb
+D:\PTS\sources\ktb_production_tracking_service\services\UsersService\UsersService.Infrastructure\obj\Debug\net9.0\ref\UsersService.Infrastructure.dll

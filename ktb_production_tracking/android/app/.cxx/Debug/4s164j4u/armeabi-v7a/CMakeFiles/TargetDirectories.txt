@@ -1,0 +1,2 @@
+D:/PTS/sources/ktb_production_tracking/android/app/.cxx/Debug/4s164j4u/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/PTS/sources/ktb_production_tracking/android/app/.cxx/Debug/4s164j4u/armeabi-v7a/CMakeFiles/rebuild_cache.dir

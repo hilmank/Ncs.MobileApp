@@ -1,0 +1,2 @@
+D:/PTS/sources/ktb_production_tracking/android/app/.cxx/RelWithDebInfo/1f672f4p/x86_64/CMakeFiles/edit_cache.dir
+D:/PTS/sources/ktb_production_tracking/android/app/.cxx/RelWithDebInfo/1f672f4p/x86_64/CMakeFiles/rebuild_cache.dir
